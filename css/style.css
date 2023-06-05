@@ -1,5 +1,6 @@
 body {
-  background-color:  pink;
+  /* background-color:  pink; */
+  background: pink;
 }
 
 h1 {
@@ -14,6 +15,7 @@ h2 {
 }
 
 .completed {
+  font-size: 12px;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
